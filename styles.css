@@ -15,7 +15,7 @@ body
 .opptions
 {
     margin: auto;
-    width: 90vw;
+    width: 88vw;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -94,7 +94,7 @@ body
     font-size: 30px;
     font-weight: 600;
 }
-@media (425px >= width)
+@media (450px >= width)
 {
     .msg_box
     {
